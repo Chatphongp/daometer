@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+## ENV settings
+
+```
+REACT_APP_API_KEY=<YOUR_COVALENT_API_KEY>
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
